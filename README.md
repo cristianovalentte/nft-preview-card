@@ -1,5 +1,5 @@
 # Frontend Mentor - NFT preview card component solution
-###The challenge
+### The challenge
 
 - The challenge consisted of making an nft preview card, 
 based on the model provided by the FrontEnd Mentor website.
