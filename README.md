@@ -15,7 +15,6 @@ based on the model provided by the FrontEnd Mentor website.
 
 ### What I learned
 
-- Nesse desafio foi possível aprender e treinar um pouco de flexbox, principalmente o quesito de responsividade, que foi uma
-  das minhas maiores dificuldades nesse projeto.
-- Foi muito interessante trabalhar também com o display grid para a estruturação melhor do site nesse desafio, que é uma das coisas
-  que eu também sinto grande dificuldade, porém com o tempo sinto que estou aprimorando.
+- In this challenge I learned a lot about basic HTML semantics (example: div, inheritance tags, etc)
+- The css was also very interesting, where I was able to use the pseudo-element hover to perform actions.
+- Another thing that I was able to perfect was the work with grid and flexbox in this challenge, which after that I already felt a lot of difference in my perception.
